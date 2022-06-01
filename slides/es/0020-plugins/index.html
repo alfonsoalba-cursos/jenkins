@@ -1,0 +1,79 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>Módulo 2: Plugins</title>
+
+		<link rel="stylesheet" href="../../dist/reset.css">
+		<link rel="stylesheet" href="../../dist/reveal.css">
+		<link rel="stylesheet" href="../../dist/theme/black.css">
+
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="../../plugin/highlight/monokai.css">
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section data-markdown="toc.md"
+						data-separator="^------"
+						data-separator-vertical="^\^\^\^\^\^\^"
+						data-charset="utf8">
+				</section>
+
+				<section id="plugin_installation"
+						data-markdown="plugin_installation.md"
+						data-separator="^------"
+						data-separator-vertical="^\^\^\^\^\^\^"
+						data-charset="utf8">
+				</section>
+
+				<section id="plugin_updates"
+						data-markdown="plugin_updates.md"
+						data-separator="^------"
+						data-separator-vertical="^\^\^\^\^\^\^"
+						data-charset="utf8">
+				</section>
+
+				<section id="plugin_management"
+						data-markdown="plugin_management.md"
+						data-separator="^------"
+						data-separator-vertical="^\^\^\^\^\^\^"
+						data-charset="utf8">
+				</section>
+
+
+				<section id="summary"
+						data-markdown="summary.md"
+						data-separator="^------"
+						data-separator-vertical="^\^\^\^\^\^\^"
+						data-charset="utf8">
+				</section>
+
+				<section id="exercices"
+						data-markdown="exercices.md"
+						data-separator="^------"
+						data-separator-vertical="^\^\^\^\^\^\^"
+						data-charset="utf8">
+				</section>
+			</div>
+		</div>
+
+		<script src="../../dist/reveal.js"></script>
+		<script src="../../plugin/notes/notes.js"></script>
+		<script src="../../plugin/markdown/markdown.js"></script>
+		<script src="../../plugin/highlight/highlight.js"></script>
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			Reveal.initialize({
+				hash: true,
+
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+			});
+		</script>
+	</body>
+</html>
