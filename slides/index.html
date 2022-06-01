@@ -3,38 +3,66 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-
-		<title>reveal.js</title>
-
-		<link rel="stylesheet" href="dist/reset.css">
-		<link rel="stylesheet" href="dist/reveal.css">
-		<link rel="stylesheet" href="dist/theme/black.css">
-
-		<!-- Theme used for syntax highlighted code -->
-		<link rel="stylesheet" href="plugin/highlight/monokai.css">
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 	</head>
 	<body>
-		<div class="reveal">
-			<div class="slides">
-				<section>Slide 1</section>
-				<section>Slide 2</section>
-			</div>
+		<div class="container">
+			<header>
+				<div class="px-4 py-5 my-5 text-center">
+					<img class="d-block mx-auto mb-4" src="/docs/5.0/assets/brand/bootstrap-logo.svg" alt="" width="72" height="57">
+					<h1 class="display-5 fw-bold">Curso de Introducción a Jenkins</h1>
+					<div class="col-lg-6 mx-auto">
+                        <p class="lead mb-4">Material de apoyo para el curso de Introducción a Jenkins en sus versiones a distancia y presencial.</p>                   </div>
+						<p>Navegación por las diapositivas:</p>
+						<ul class="list-unstyled">
+							<li>Usa <kbd>UP</kbd> <kbd>DOWN</kbd> <kbd>LEFT</kbd> <kbd>RIGHT</kbd> para moverte por las diapositivas</li>
+							<li><kbd>ESC</kbd> para acceder al mapa de diapositivas del módulo</li>
+							<li><kbd>S</kbd> para ver las notas del presentador</li>
+						</ul>
+                </div>		
+			</header>
+			<main>
+				<div class="accordion" id="accordionPanelsStayOpenExample">
+					<div class="accordion-item">
+						<h2 class="accordion-header" id="panelsStayOpen-headingIntroduction">
+						<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseIntroduction" aria-expanded="true" aria-controls="panelsStayOpen-collapseIntroduction">
+							1. Introducción
+						</button>
+						</h2>
+						<div id="panelsStayOpen-collapseIntroduction" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingIntroduction">
+							<div class="accordion-body">
+								Objetivos del curso y una breve introducción a Jenkins.
+								<ul>
+									<li>
+										<a href="es/0010-introduccion/index.html"  class="text-decoration-none text-reset">Diapositivas 🔗</a>
+										<a href="es/0010-introduccion/index.html?print-pdf"  class="text-decoration-none text-reset">🖨</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>					
+				</div>		
+			</main>
+
+			<footer class="pt-4 my-md-5 pt-md-5 border-top">
+				<div class="row">
+				  <div class="col-12 col-md text-center mb-3">
+					<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+						<img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" />
+					</a>
+					This work is licensed under a 
+					<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+					©️ 2019 - 2022 Alfonso Alba García		
+				  </div>
+
+				  <div class="col-12 col-md text-center mb-3">
+					  📧 alfonso _at_ alfonsoalba.com | <a href="https://www.linkedin.com/in/alfonsoalbagarcia/" target="_blank" rel="noopener noreferrer"><img src="images/linkedin.png"></a>
+				  </div>
+				</div>
+			  </footer>
 		</div>
 
-		<script src="dist/reveal.js"></script>
-		<script src="plugin/notes/notes.js"></script>
-		<script src="plugin/markdown/markdown.js"></script>
-		<script src="plugin/highlight/highlight.js"></script>
-		<script>
-			// More info about initialization & config:
-			// - https://revealjs.com/initialization/
-			// - https://revealjs.com/config/
-			Reveal.initialize({
-				hash: true,
-
-				// Learn about plugins: https://revealjs.com/plugins/
-				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
-			});
-		</script>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 	</body>
 </html>
+
