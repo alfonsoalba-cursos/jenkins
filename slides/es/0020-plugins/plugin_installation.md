@@ -28,27 +28,27 @@ casi cualquier proyecto que necesitemos.
 
 #### Instalación de plugins
 
-![Plugin installation step 1](/slides/images/es/0020/plugin_installation_step_1.png)<!-- .element: class="plain"-->
+![Plugin installation step 1](/slides/images/es/0020/plugin_installation_step_1.png)
 
 notes:
 
 Podemos acceder desde el panel de jenkins o utilizando la barra con los breadcrumbs, desplegando el menú
 del primer elemento: "Jenkins"
 
-![Plugin installation step 1 option](/slides/images/es/0020/plugin_installation_step_1_option.png)<!-- .element: class="plain"-->
+![Plugin installation step 1 option](/slides/images/es/0020/plugin_installation_step_1_option.png)
 
 
 ^^^^^^
 
 #### Instalación de plugins
 
-![Plugin installation step 2](/slides/images/es/0020/plugin_installation_step_2.png)<!-- .element: class="plain"-->
+![Plugin installation step 2](/slides/images/es/0020/plugin_installation_step_2.png)
 
 ^^^^^^
 
 #### Instalación de plugins
 
-![Plugin installation step 3](/slides/images/es/0020/plugin_installation_step_3.png)<!-- .element: class="plain"-->
+![Plugin installation step 3](/slides/images/es/0020/plugin_installation_step_3.png)
 
 notes:
 

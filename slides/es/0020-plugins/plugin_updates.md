@@ -1,7 +1,7 @@
 
 ### Actualización de plugins
 
-![Plugin updates step 1](/slides/images/es/0020/plugin_updates_step_1.png)<!-- .element: class="plain"-->
+![Plugin updates step 1](/slides/images/es/0020/plugin_updates_step_1.png)
 
 notes:
 
