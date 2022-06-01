@@ -2,10 +2,10 @@
 
 #### Plugins
 
-* [Instalación de plugins](/#plugin_installation)
-* [Actualizaciones](/#plugin_updates)
-* [Gestión de plugins](/#plugin_management)
-* [Ejercicios](/#exercices) 
+* [Instalación de plugins](#plugin_installation)
+* [Actualizaciones](#plugin_updates)
+* [Gestión de plugins](#plugin_management)
+* [Ejercicios](#exercices) 
 
 notes:
 

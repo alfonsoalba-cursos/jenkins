@@ -9,6 +9,6 @@ configura Jenkins para que aparezca en Castellano.
 
 #### 💻️ Ejercicio 2
 
-Utilizando el Plugin ["Meme Generator"](https://plugins.jenkins.io/locale/)
+Utilizando el Plugin ["Meme Generator"](https://plugins.jenkins.io/memegen/)
 o ["Internet Meme"](https://plugins.jenkins.io/internetmeme/), 
 añade un toque de humor a tus ejecuciones.

@@ -2,11 +2,11 @@
 
 #### Instalación de Jenkins
 
-* [Introducción](/#introduction)
-* [Instalación](/#instalation)
-* [El panel](/#the_dashboard)
-* [Nuestra primera tarea en Jenkins](/#first_jenkins_job)
-* [Extras](/#extras)
+* [Introducción](#introduction)
+* [Instalación](#instalation)
+* [El panel](#the_dashboard)
+* [Nuestra primera tarea en Jenkins](#first_jenkins_job)
+* [Extras](#extras)
 
 notes:
 
