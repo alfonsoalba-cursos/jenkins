@@ -2,7 +2,7 @@
 
 Cada vez que se ejecuta una tarea, se genera una **ejecución** (`build`) en el log de la tarea.
 
-![builds](/slides/images/es/0030/builds.png)<!-- .element: class="plain" -->
+<img src="/slides/images/es/0030/builds.png" alt="builds" class="r-stretch">
 
 
 ^^^^^^
@@ -13,7 +13,7 @@ Cada vez que se ejecuta una tarea, se genera una **ejecución** (`build`) en el 
 * Cuándo se ejecutó
 * Cuánto tardó
 
-![build page](/slides/images/es/0030/build_page.png)<!-- .element: class="plain" -->
+<img src="/slides/images/es/0030/build_page.png" alt="build page" class="r-stretch">
 
 
 ^^^^^^
@@ -22,7 +22,7 @@ Cada vez que se ejecuta una tarea, se genera una **ejecución** (`build`) en el 
 
 * Cambios
 
-![builds changes](/slides/images/es/0030/build_changes.png)<!-- .element: class="plain" -->
+<img src="/slides/images/es/0030/build_changes.png" alt="builds changes" class="r-stretch">
 
 
 notes:
@@ -39,7 +39,7 @@ que han tenido lugar desde la última ejecución.
 
 * Captura de la salida por consola de la ejecución
 
-![build_console_output](/slides/images/es/0030/build_console_output.png)<!-- .element: class="plain" -->
+<img src="/slides/images/es/0030/build_console_output.png" alt="build_console_output" class="r-stretch">
 
 notes:
 
@@ -55,7 +55,7 @@ ha marcado la opción "Add timestamps to the Console Output" de la sección
 * Borrar la tarea
 * Ver recursos bloqueados
 
-![build page](/slides/images/es/0030/build_page_2.png)<!-- .element: class="plain" -->
+<img src="/slides/images/es/0030/build_page_2.png" alt="build page" class="r-stretch">
 
 notes:
 
@@ -71,7 +71,7 @@ ha marcado la opción "This build requires lockable resources" de la sección
 
 Si haces click sobre el indicador de estado te lleva directamente a la salida de consola
 
-![builds_click_on_status](/slides/images/es/0030/builds_click_on_status.png)<!-- .element: class="plain" -->
+<img src="/slides/images/es/0030/builds_click_on_status.png" alt="builds_click_on_status" class="r-stretch">
 
 ^^^^^^
 
@@ -79,4 +79,4 @@ Si haces click sobre el indicador de estado te lleva directamente a la salida de
 
 Junto al número de ejecución se puede desplegar un menú
 
-![builds_click_on_build_id](/slides/images/es/0030/builds_click_on_build_id.png)<!-- .element: class="plain" -->
+<img src="/slides/images/es/0030/builds_click_on_build_id.png" alt="builds_click_on_build_id" class="r-stretch">

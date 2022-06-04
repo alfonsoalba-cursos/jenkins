@@ -10,7 +10,7 @@ Estos parámetros están disponibles durante la ejecución de la tarea como **va
 
 En la sección "General" de la configuración de la tarea, seleccionamos la opción "Esta ejecución debe parametrizarse".
 
-![parameterized builds](/slides/images/es/0030/parameterized_build_1.png)<!-- .element: class="plain" -->
+<img src="/slides/images/es/0030/parameterized_build_1.png" alt="parameterized builds" class="r-stretch"><!-- .element: class="plain" -->
 
 
 ^^^^^^
@@ -19,7 +19,7 @@ En la sección "General" de la configuración de la tarea, seleccionamos la opci
 
 Seleccionamos el tipo de parámetro y rellenamos los valores que ese parámetro necesita.
 
-![parameterized builds](/slides/images/es/0030/parameterized_build_2.png)<!-- .element: class="plain" -->
+<img src="/slides/images/es/0030/parameterized_build_2.png" alt="parameterized builds" class="r-stretch"><!-- .element: class="plain" -->
 
 
 ^^^^^^
@@ -28,7 +28,7 @@ Seleccionamos el tipo de parámetro y rellenamos los valores que ese parámetro 
 
 Cuando lancemos la ejecución manualmente, debemos rellenar los parámetros.
 
-![parameterized builds](/slides/images/es/0030/parameterized_build_3.png)<!-- .element: class="plain" -->
+<img src="/slides/images/es/0030/parameterized_build_3.png" alt="parameterized builds" class="r-stretch"><!-- .element: class="plain" -->
 
 
 ^^^^^^
@@ -74,7 +74,7 @@ Crea una nueva tarea de tipo estilo libre.
 
 Parametriza la tarea para que admita un fichero:
 
-![parameterized_build_example_1_set_parameters](/slides/images/es/0030/parameterized_build_example_1_set_parameters.png)
+<img src="/slides/images/es/0030/parameterized_build_example_1_set_parameters.png" alt="parameterized_build_example_1_set_parameters" class="r-stretch">
 
 ^^^^^^
 
@@ -82,7 +82,7 @@ Parametriza la tarea para que admita un fichero:
 
 Parametriza la tarea para que admita un fichero:
 
-![parameterized_build_example_1_build_step](/slides/images/es/0030/parameterized_build_example_1_build_step.png)
+<img src="/slides/images/es/0030/parameterized_build_example_1_build_step.png" alt="parameterized_build_example_1_build_step" class="r-stretch">
 
 ^^^^^^
 
@@ -93,7 +93,7 @@ log de la tarea.
 
 notes:
 
-Accede al workspace y veerifica que el fichero está físicamente ahí.
+Accede al workspace y verifica que el fichero está físicamente ahí.
 
 Con esto podemos hacer cosas tan inútiles como subir un fichero mp3 y reproducirlo. Para ello,
 instalamor sox en la máquina virtual:
