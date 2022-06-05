@@ -5,7 +5,7 @@
 notes:
 
 En esta sección vamos a añadir nodos. La máquina virtual que hemos estado usando hasta el momento
-actuará como maestro y añadiremos un nodo adicional que será nuestro agente.
+actuará como controlador y añadiremos un nodo adicional que será nuestro agente.
 
 ^^^^^^
 
